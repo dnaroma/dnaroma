@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Web Design | Web Development | Micro Services | Container (Docker, Kubernetes) | Machine Learning**
+**Web Design | Web Development | Micro Services | Full Stack | Container (Docker, Kubernetes) | Machine Learning**
 
 - 🔭 I’m currently working on [Sekai Viewer](https://sekai-world.github.io/sekai-viewer) (and my paper)
 - 🌱 I’m currently learning TypeScript and React
